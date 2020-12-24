@@ -1,5 +1,5 @@
 {
-  "_from": "icepick@git://github.com/quintype/icepick.git",
+  "_from": "icepick@git://github.com/quintype/icepick.git#main",
   "_id": "icepick@1.1.0",
   "_inBundle": false,
   "_integrity": "sha1-18uBedBbT0loHIZBu5wGdsDk1SE=",
@@ -7,18 +7,18 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "icepick@git://github.com/quintype/icepick.git",
+    "raw": "icepick@git://github.com/quintype/icepick.git#main",
     "name": "icepick",
     "escapedName": "icepick",
-    "rawSpec": "git://github.com/quintype/icepick.git",
-    "saveSpec": "git://github.com/quintype/icepick.git",
-    "fetchSpec": "git://github.com/quintype/icepick.git"
+    "rawSpec": "git://github.com/quintype/icepick.git#main",
+    "saveSpec": "git://github.com/quintype/icepick.git#main",
+    "fetchSpec": "git://github.com/quintype/icepick.git#main"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/quintype/icepick.git",
-  "_spec": "icepick@git://github.com/quintype/icepick.git",
+  "_resolved": "git://github.com/quintype/icepick.git#main",
+  "_spec": "icepick@git://github.com/quintype/icepick.git#main",
   "_where": "/Users/akshar/work/qt/itsman/itsman-ui",
   "author": {
     "name": "Alexander Early",
@@ -60,7 +60,7 @@
   "name": "icepick",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/aearly/icepick.git"
+    "url": "git+ssh://git@github.com/aearly/icepick.git#main"
   },
   "scripts": {
     "coverage": "nyc npm test && nyc report",
