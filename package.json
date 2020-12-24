@@ -1,5 +1,5 @@
 {
-  "_from": "icepick@git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
+  "_from": "icepick@git://github.com/quintype/icepick.git",
   "_id": "icepick@1.1.0",
   "_inBundle": false,
   "_integrity": "sha1-18uBedBbT0loHIZBu5wGdsDk1SE=",
@@ -7,19 +7,18 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "icepick@git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
+    "raw": "icepick@git://github.com/quintype/icepick.git",
     "name": "icepick",
     "escapedName": "icepick",
-    "rawSpec": "git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
-    "saveSpec": "git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
-    "fetchSpec": "git://github.com/codepodu/icepick.git",
-    "gitCommittish": "f47951708daa1be5b7bd129f55cff6e8fdcd00c8"
+    "rawSpec": "git://github.com/quintype/icepick.git",
+    "saveSpec": "git://github.com/quintype/icepick.git",
+    "fetchSpec": "git://github.com/quintype/icepick.git"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
-  "_spec": "icepick@git://github.com/codepodu/icepick.git#f47951708daa1be5b7bd129f55cff6e8fdcd00c8",
+  "_resolved": "git://github.com/quintype/icepick.git",
+  "_spec": "icepick@git://github.com/quintype/icepick.git",
   "_where": "/Users/akshar/work/qt/itsman/itsman-ui",
   "author": {
     "name": "Alexander Early",
